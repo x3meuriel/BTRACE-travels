@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2"
+  },
+  "name": "site",
+  "version": "1.0.0",
+  "main": "btracetravels.js",
+  "scripts": {
+    "start": "node btracetravels",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Ukwueji Uriel",
+  "license": "ISC",
+  "description": "Web development with Node and express book",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
